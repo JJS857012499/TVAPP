@@ -46,7 +46,7 @@
 | 千寻直播                | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻TV_1.1.2.apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
 | 星火直播                | v1.0.50     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火直播v1.0.50.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |
 | WebViewTV               | v2.0.4      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/WebViewTV) | 🟢    | 直接使用官网直播链接，非常稳定可靠，稳定版下载v1.13.3，尝鲜版下载v2.0.4 |
-| 七星电视                | 250606      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/七星电视_250606_内置央网源.apk) | 🟢    | 内置央网源。软件没有什乱七八糟的东西，就是卫.央.当地，主打的就是一个稳 |
+| 七星电视                | 251209      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/七星电视2.0.apk) | 🟢    | 内置央网源。软件没有什乱七八糟的东西，就是卫.央.当地，主打的就是一个稳 |
 | 悠悠电视                | v1.0.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/悠悠电视_1.0.3.apk) | 🟢    | 无需登录，打开即可收看各个频道，并且播放流畅，显示画面清晰无卡顿 |
 | 电视直播                | v1.3.0.172  | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/mytv-android/mytv-android-tv-1.3.0.172-all-sdk21-正常版.apk) | 🟢    | 基于天光云影3.3.9，使用Android原生开发的电视直播软件         |
 | 电视家修复版            | v10.2.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/电视家TV+5.0+稳定秒播版+稀缺.apk) | 🟢    | 稳定秒播版+稀缺                                              |
