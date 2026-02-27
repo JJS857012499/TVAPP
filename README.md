@@ -37,7 +37,7 @@
 | 金音KTV·金尊专享会员版  | v3.15.64 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/金音3.15.64.240124125.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 爱唱KTV会员版           | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/爱唱KTV-v2.16.58会员版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 智能K歌解锁VIP版        | v2.17.48 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智能K歌_2.17.48.2505081546_V2修复版.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
-| 智享K歌                 | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌_2.16.58.2411111420.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
+| 智享K歌                 | v2.16.58    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/智享K歌2.15.68.2401261132.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 蓝音                    | v2.15.68    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/蓝音_2.15.68.2401261132.apk) | 🟢    | 手机/TV通用，解锁会员版、支持扫码点歌，汇集70w+首歌曲，可在线更新曲库，全是 HD 高画质，支持语音助手 |
 | 随畅KTV                 | v3.24.09.03 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/随畅KTV_v3.24.09.03-会员.apk) | 🟢    | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！     |
 | 蓝调KTV                 | v3.26.74    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/蓝调KTV_3.26.74.apk) | 🟢    | 同上都是一个类型的软件，注意如果有让你更新付费切勿相信！     |
